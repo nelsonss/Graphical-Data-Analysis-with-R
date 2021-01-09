@@ -1,4 +1,5 @@
 # Ch01 Setting the Scene
+#   http://www.gradaanwr.net/content/ch01/
 # install.packages("GDAdata")
 ## Graphics in action
 # -------------------------------------------------------------------------------------------------
